@@ -1,0 +1,267 @@
+임시파일
+
+.tmp
+._mp
+.log
+.gid
+.chk
+.old
+.* (recycled, prefetch, cookies, recent, Local Settings\Temporary Internet Files, Local Settings\Temp, recent 내부)
+temp 폴더
+
+
+**위 확장자를 가진 파일은 삭제되니 주의하세요**
+**만약 위 확장자를 가진 귀중한 파일이 있다면 임시파일 제거 선택시 2번을 눌러주세요**
+
+
+휴지통
+
+휴지통내부 파일을 복구불가능하게 제거합니다
+
+
+윈도우 업데이트 삭제 목록
+
+KB298279 ::인증관련
+KB949810 ::Office 정품 알림
+KB971033 ::Windows7 정품 알림
+KB976902 ::인증관련
+KB2718704 ::인증관련
+KB2803821 ::그래픽 반토막으로 나오게 함
+KB2868038 ::불필요한 업데이트
+KB2868626 ::불필요한 업데이트
+KB2952664 ::Windows10 업그레이드 관련
+KB2970228 ::루블화 화폐 표시 새 기호
+KB2975331 ::윈도 RT, 윈도 8, 윈도 서버 2012용 2014년 8월 롤업
+KB2975719 ::윈도 RT 8.1, 윈도 서버 2012 R2용 2014년 8월 롤업
+KB2976897 ::악성 업데이트
+KB2982791 ::블루스크린 유발
+KB2984615 ::악성 업데이트
+KB3021917 ::Windows10 업그레이드 알림
+KB3022345 ::진단 추적 서비스
+KB3035583 ::Windows10 업그레이드 알림
+KB3068708 ::KB3022345대용. 사용자 진단, 현황, 추적 서비스
+KB3075249 ::사용자 계정 정보 전송
+KB3080149 ::사용자 진단, 현황, 추적 서비스
+KB3097877 ::Windows7 정품 알림
+KB3101746 ::불필요한 업데이트
+KB3109094  ::Windows7 정품 알림
+KB3112343 ::인증 관련
+KB3150513 ::Windows10 업그레이드 알림2
+KB4012219 ::오류 유발
+KB4012218 ::오류 유발
+
+
+쓸모없거나 악성프로그램 목록
+
+	"MarkAny WebDRMNoAX",
+	"ePageSaferRT",
+	"Ahnsoft",
+	"ahnsbsb.exe",
+	"ahnfgss0.dll",
+	"ahnfgss1.dll",
+	"ahnxsds0.dll",
+	"ahnxsds1.dll ",
+	"Auto Styling Plugin ",
+	"AD Anti ",
+	"Addendum sidebar(gamjoa)",
+	"abouttopbar",
+	"ADDENDUM",
+	"Addendum(ts)",
+	"Addendum - NM",
+	"Addendum - sb",
+	"Addendum Sidebar(gamejoa) ",
+	"Addendum Sidebar(Sponslink)",
+	"addmsidebar",
+	"Advenced Top C Manager",
+	"AKInteractive",
+	"afreeca streamer 제거",
+	"Akamai NetSession Interface",
+	"Akamai NetSession Interface Service",
+	"AIViewer50 Integrated",
+	"ALT C++ Video Flash Activex Manager",
+	"AntiDefend",
+	"Anti namecheck filter ActCtrl ",
+	"Buddy Search",
+	"Addendum_NM",
+	"AdvTAdvTopc",
+	"atbaddon",
+	"Conduit Search",
+	"conduit",
+	"DualMatching",
+	"datamodify",
+	"florapop",
+	"findkey",
+	"GuideOn",
+	"Hint",
+	"Happymoney manager",
+	"halfguideon",
+	"Keywordinfo",
+	"Live Keys",
+	"kesinfoi",
+	"Miconsoft",
+	"mysponsor unistall",
+	"Micronames Muti Language Convert Service",
+	"Mclean",
+	"microsolution",
+	"MobinUsefull",
+	"microWEBAD",
+	"MsmartKey",
+	"MSmartpop",
+	"Procesverbal",
+	"psngr bho pop",
+	"SearchLite",
+	"sideover uninstall",
+	"serch bar",
+	"setwinuser",
+	"system numcountelcnt",
+	"wall Top",
+	"WinScare",
+	"wisecenter",
+	"11stTab",
+	"Xocean",
+	"Gappl",
+	"uiguider",
+	"toolon",
+	"Keyword Search",
+	"Internet IeFind",
+	"Fwd",
+	"ANIJ",
+	"Clickmonster",
+	"DiskBoan",
+	"User dnControler manager",
+	"bpntup",
+	"Alsearch",
+	"Atarget version 1.0",
+	"clisopt",
+	"system launcherlcnt x86 (remove only)",
+	"MAOnMultiWebSafer_STD",
+	"MaWebSAFER_STDEP",
+	"{1CBD185A-9CB3-4f30-B7E4-75CC551455F9}_is1",
+	"{8941A397-4065-4F41-92CE-0EB610846EED}_is1",
+	"{2D992E01-604B-472C-A883-1DDA105A24D5}_is1",
+	"TouchEn nxKey",
+	"{19DD1D8D-927F-45DF-ADF4-75D38267848D}",
+	"AnySign4PC",
+	"nProtect Online Security V1.0(PFS)",
+	"IPinside Non-p Agent",
+	"INISAFE SmartManagerEX",
+	"UnINISafeWebEX",
+	"AhnLab Online Security",
+	"MaDownloadRD_SI4N",
+	"TouchEn_key",
+	"XecureWeb Control",
+	"IPinside LWS Agent",
+	"IPinside Agent",
+	"iniLINE_CrossEX",
+	"ePageSafer",
+	"KeySharp CertRelay",
+	"INISAFE MoaSign EX",
+	"iniLINE_CrossEX",
+	"KJBank",
+	"INISAFE SandBox",
+	"부산은행 스마트자산관리",
+	"nProtect Netizen v5.5",
+	"UnINISafeWeb64",
+	"XecureCK",
+	"npEfdsWCtrl",
+	"UnINISiteChecker",
+	"AxSignGATE",
+	"npkcxp",
+	"Rexpert30 Viewer",
+	"XecureWeb UnifiedPlugin",
+	"kdefense",
+	"{79615F80-0F42-47B9-8565-AC1C3211F1DB}",
+	"{86201F6D-9C30-48D4-B48B-376342C3022E}",
+	"{D5687220-7A75-4377-AEB4-95697162972D}",
+	"삼성증권 증명서 발급",
+	"SKCert.{FF902CAB-2018-4036-9CAC-91AAC839021C}",
+	"1F2B5CC6-1183-4F98-A3B3-2A68DB829A51_is1",
+	"PscDpx",
+	"{2318C2B1-4965-11d4-9B18-009027A5CD4F}",
+	"IssacWebSE_EtoE_3_3_3_9_Crypto_1_0_0_1_is1",
+	"INISAFE Mail v4",
+	"IDefense",
+	"SoftcampSCSK",
+	"UnINISafeWeb7",
+	"WiseGrid ActiveX_is1",
+	"npkfx",
+	"NTSMagicLineMBX",
+	"npPCStatus",
+	"UnINISafeWeb6",
+	"푸르덴셜생명 증명서 발급",
+	"{27640517-0513-4d81-A61E-228DC51680F8}",
+	"{E395A453-693C-4428-8BAE-E8998D2E4901}",
+	"MaDownloadRD",
+	"{A5C3CD60-0FE0-4108-BEB3-25F00F6FFE96}",
+	"McAfee Security Scan",
+	"{8F5483B3-D9B9-4C8E-BF01-B30CC1707EE0}",
+	"{E48E2437-FB9B-4596-9525-00DAFC7AABED}_is1",
+	"CrossCertWeb",
+	"Easykeytec",
+	"ezHelp ActiveX_is1",
+	"GPKISecureWebX",
+	"KOS",
+	"KSignAccessToolkit",
+	"KSignCASE-EAIS",
+	"MAGICXML",
+	"MarkAny Inc. e-PageSafer v2.5 COURT OzWeb(Uninstall)",
+	"McAfee Security Scan",
+	"Rexpert25 Viewer",
+	"XecureWeb-Multi FCMS",
+	"yessign7ActiveX",
+	"유니사인(UniSign) 한국전자인증 스마트폰 인증서 이동",
+	"D'Amo WebCrypto_is1",
+	"MaWebSafer_SCx86",
+	"msxml4"
+	"우리은행 보안 로그 수집기 ",
+	"대구은행 보안 로그 수집기 ",
+
+
+필요없는 프로세스 목록
+
+    GoogleUpdate.exe
+	wmpnetwk.exe
+	PDVD11Serv.exe
+	OSPPSVC.EXE
+	taskhost.exe
+	TortoiseHgOverlayServer.exe
+	IMEDICTUPDATE.EXE
+	mDNSResponder.exe
+	PresentationFontCache.exe
+	splwow64.exe
+	sppsvc.exe
+	WmiPrvSE.exe
+	WmiPrvSE.exe
+	nPStarterSVC.exe, npnj5Agent.exe, npmonz.exe,
+	npenkMain5.npn, npkcmsvc.exe, npkfxsvc.exe,
+	nossvc.exe, nosstarter.npe,
+	CKAgent.exe, I3GEX.exe, 
+	SCSKSender.exe, SNBTAAAA.exe,
+	EZKeytecRun.exe,
+	WLIDSVCM.EXE
+	TSVNCache.exe
+	AYWscUpdater.exe
+	WLIDSVC.EXE
+	ImageSAFERSvc.exe, ImageSAFERStart_x86.exe, ImageSAFERStart_x64.exe,
+	veraport.exe, AnySign4PC.exe,
+	I3GMainSvc.exe, I3GProc.exe,
+	dllhost.exe
+	taskeng.exe
+	TrustedInstaller.exe
+	MsMpEng.exe
+	qruxaaaa.exe, isbew64.exe
+	eausvc.exe
+	FreeAgentService.exe
+	AppleMobileDeviceService.exe
+	WLIDSVCM.EXE
+
+
+필요없는 서비스 목록
+
+	"TUCtlSystem",
+	"Image Protection",
+	"IMGSF50_Svc",
+	"Innosvc7",
+	"Innosvc",
+	"I3GMainSvc",
+	"npggsvc"
